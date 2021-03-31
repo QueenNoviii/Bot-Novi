@@ -32,6 +32,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: https://instagram.com/ecinvntii_
+ Instagram: https://instagram.com/ecinvntii
  
  Youtube: https://youtu.be/xeaUCZ0ZSug
